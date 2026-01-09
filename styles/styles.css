@@ -87,4 +87,20 @@ h2{
    
 }
 
+.headline{
+    width: 200px;
+    color: #fff;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title{
+   color: aqua;
+   
+
+}
+
 
